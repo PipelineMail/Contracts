@@ -10,7 +10,7 @@ Contract
 
 > This repository contains all the contract code of PipeMail.<br>
 
-*If you want to know about PipeMail, please go [here](https://github.com/PipelineMail/OfficialWebsite).*
+*If you want to know about PipeMail, please click [here](https://github.com/PipelineMail/OfficialWebsite).*
 
 ***Attention:***
 
