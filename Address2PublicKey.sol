@@ -20,7 +20,7 @@ contract PubllicKey is Ownable{
             encryptData[i] = prefix[i];
         }
     }
-    //这种方式需要花费更多的gas 
+    //This way cost more gas.
     function storePubKey(string memory _pubKey,bytes calldata signature,address _keyOwner) public returns(bool){
         bytes memory pubKey = bytes(_pubKey);
         bytes memory _encryptData = encryptData;
